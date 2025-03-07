@@ -1,4 +1,4 @@
-# telestration Code
+# Telestration Code
 
 # User Manual
 

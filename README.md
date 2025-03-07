@@ -27,4 +27,5 @@ The tool is easy to use and includes the following functionalities:
 
 These are the available functionalities of the tool.
 
-[Ver video de demostración]([videos/demo.mp4](https://github.com/adlihs/telestration/releases/download/video/Telestration.App.mp4))
+[![Tutorial](https://img.youtube.com/vi/RyRV_a6azj8/hqdefault.jpg)](https://www.youtube.com/watch?v=RyRV_a6azj8)
+

@@ -29,3 +29,6 @@ These are the available functionalities of the tool.
 
 [![Tutorial](https://img.youtube.com/vi/RyRV_a6azj8/hqdefault.jpg)](https://www.youtube.com/watch?v=RyRV_a6azj8)
 
+## Support
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/edmundneil)

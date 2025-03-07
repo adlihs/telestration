@@ -1,4 +1,4 @@
-# Telestration Code
+# Telestration App
 
 # User Manual
 

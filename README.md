@@ -27,3 +27,4 @@ The tool is easy to use and includes the following functionalities:
 
 These are the available functionalities of the tool.
 
+[Ver video de demostración](videos/demo.mp4)
